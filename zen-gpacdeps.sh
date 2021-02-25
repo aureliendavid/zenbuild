@@ -26,6 +26,7 @@ function gpacdeps_get_deps {
   echo js
   echo opensvc
   echo openhevc
+  echo libnghttp2
 
 
 }
